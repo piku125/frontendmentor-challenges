@@ -1,0 +1,7 @@
+
+.main-card{
+    display: flex;
+    background-color: hsl(215,22%,15%);
+    width: 15em;
+    height: 15em;
+}
