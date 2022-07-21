@@ -10,4 +10,12 @@ body{
     width: 15em;
     height: 15em;
     border-radius: 15%;
+    position: absolute;
+}
+.circle-icon{
+    border-radius:50% ;
+    background-color: hsl(215,22%,21%);
+    padding: 1em;
+
+
 }
