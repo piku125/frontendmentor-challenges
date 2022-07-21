@@ -1,7 +1,13 @@
-
-.main-card{
+body{
+    display: block;
+    height: 100vh;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-card{
     background-color: hsl(215,22%,15%);
     width: 15em;
     height: 15em;
+    border-radius: 15%;
 }
